@@ -1,4 +1,4 @@
-# Jira Report on Status of Tickets-MIS-338
+# Jira Report on Status of Tickets MIS-338
 
 # Installation Instructions
 1. Install Node.js https://nodejs.org/en/
