@@ -1,6 +1,6 @@
 # Jira-Report-on-Status-of-Tickets-MIS-338
 
-# Installing Instructions
+# Installation Instructions
 1. Install Node.js https://nodejs.org/en/
 2. Clone Repository to local machine
 3. Change working directory to cloned directory
